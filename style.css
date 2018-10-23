@@ -1,0 +1,89 @@
+h1 {
+animation: faulty-wire 5s infinite;
+}
+
+@keyframes faulty-wire {
+  0%{
+    color:white;
+  }
+  2%{
+    color: white;
+    color: rgb(27, 75, 51);  
+    
+  }
+  29% {
+    
+    color: rgb(27, 75, 51);
+    }
+  30% {
+    color: white;
+  }
+  32% {
+    color: white;
+    color: rgb(27, 75, 51);
+    }
+  34% {
+    
+    color: rgb(48, 238, 143);
+    color: white;
+  }
+  35% {
+    color: white;
+    color: rgb(27, 75, 51);
+    
+ }
+  49% {
+    color: rgb(27, 75, 51);
+    
+ }
+  50% {
+    
+    color: white;
+ }
+  51% {
+    color: white;
+    color: rgb(27, 75, 51);
+    
+  }
+  59% {
+    
+    color: rgb(27, 75, 51);
+    }
+  60% {
+    
+    
+    color: white;
+  }
+  61% {
+    
+    color: white;
+    color: rgb(27, 75, 51);
+    
+    }
+  63% {
+    
+    color: rgb(27, 75, 51);
+    color: white;
+  }
+
+  64% {
+    color: white;
+    color: rgb(48, 238, 143);
+    
+  }
+  79% {
+    
+    color: rgb(48, 238, 143);
+  }
+  80% {
+    
+    color: white;
+    
+  }
+  81% {
+    
+    color: white;
+    color: rgb(27, 75, 51);
+    
+  }
+}
